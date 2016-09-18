@@ -1,0 +1,45 @@
+#face {
+	color: yellow;
+	font-size: 40px;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 60;
+}
+
+body {
+	font-size: 14px;
+	font-family: helvetica, times new roman;
+	color: #000;
+}
+
+#chilling {
+	color:red;
+	font-size:75px;
+	font-style: italic;
+	font-family: times new roman
+}
+
+p.portfolio.html {
+	background-color: gray;
+}
+
+p {
+	color: #fff;
+	font-style: bold;
+}
+
+
+ul li {
+	color:#fff;
+	font-style: italic;
+}
+
+.soup {
+	color: green;
+}
+
+
+
